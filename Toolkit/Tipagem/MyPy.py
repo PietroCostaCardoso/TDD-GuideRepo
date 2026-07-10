@@ -1,0 +1,3 @@
+# É uma ferramenta de verificação de tipos estática para Python. Ela ajuda a encontrar erros de tipo no seu código antes mesmo de executá-lo.
+
+# UM exemplo para entender melhor é tipo quando você escreve um texto no Word, o corretor coloca uma linha vermelha embaixo de uma palavra errada. O Mypy faz exatamente isso: ele coloca uma linha vermelha no seu código avisando sobre erros de tipo antes de você rodar o programa.
