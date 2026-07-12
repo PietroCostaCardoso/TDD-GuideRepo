@@ -9,4 +9,4 @@ def soma (x,y):
 print(soma(10, 5))    
 print(soma(40, 5))  
 
-#então tipo aqui se der erro em alguma dessas linhas vai mostrar que o primeiro ou segundo rgumento devem ser numeros 
+#então tipo aqui se der erro em alguma dessas linhas vai mostrar que o primeiro ou segundo argumento devem ser numeros 
