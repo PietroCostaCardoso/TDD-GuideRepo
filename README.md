@@ -5,7 +5,7 @@
 
 ## Versão em Português
 
-### O Ciclo Red, Green, Refactor (TDD).
+### O Ciclo Red, Green, Refactor (TDD)
 
 O ciclo **Red, Green, Refactor** é a base do TDD (*Test-Driven Development* ou Desenvolvimento Guiado por Testes). Funciona como um guia em três passos simples para criar códigos com menos erros e de alta qualidade:
 
